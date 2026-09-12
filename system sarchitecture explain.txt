@@ -1,0 +1,28 @@
+1. Data Set : The process starts with a data set, which is the raw input data for the classification task.
+
+2. Data Splitting : The data set is split into two parts: 
+
+                               1. Training Data: Used to train the model.
+                               2. Test Data: Used later to evaluate the trained model's performance.
+
+3. Data Preprocessing : 
+                                   The training data goes through data preprocessing, which includes:
+
+                                    1.Cleaning the data (e.g., handling missing values, removing duplicates).
+
+                              2.  Normalizing or scaling features.
+ 
+                                3. Encoding categorical variables.
+ 
+4. Feature Selection :  After preprocessing, feature selection identifies the most relevant features from the data, which simplifies the model and improves performance.
+
+5. Classification Algorithm : A classification algorithm is selected (e.g., Decision Trees, Support Vector Machines, or Neural Networks).
+This is the machine learning method used to classify data.
+
+6. Model Training : The selected algorithm trains on the training data using the chosen features to learn patterns and relationships.
+
+7. Classification Model : The output of the training phase is the classification model that can predict the target class.
+8. Result Optimization : The classification model is fine-tuned to optimize results, which may include hyperparameter tuning or applying techniques like cross-validation.
+
+9. Test Data and Performance Evaluation : The test data is used to evaluate the model’s performance.
+The performance evaluation assesses accuracy, precision, recall, F1-score, and other metrics to determine how well the model works.

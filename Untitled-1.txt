@@ -1,0 +1,14 @@
+
+
+
+ magic_number= 25
+
+user
+
+
+
+
+
+
+   while 1:     
+        if user_input== magic_number:
